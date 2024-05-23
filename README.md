@@ -194,7 +194,7 @@ The processed data is also provided [here](https://drive.google.com/open?id=1XBs
 | NeuralPCI [zheng2023neuralpci] | 0.70 | 4.36 | 0.61 | 4.76 | 0.67 | 4.79 | 0.59 | 4.63 | 0.03 | 0.02 | 0.53 | 2.22 | 0.54 | 3.68 | 1.85M |
 | Ours | 0.68 | 3.69 | 0.59 | 4.12 | 0.65 | 4.20 | 0.57 | 4.14 | 0.00 | 0.00 | 0.00 | 0.00 | 0.42 | 2.69 | 0.10M |
 
-### Quantitative comparison with other advanced methods on the NL Drive dataset. Frame-1, Frame-2, and Frame-3 denote three interpolated frames evenly spaced between two middle input frames. The symbol $^$ signifies outlier removal during preprocessing.
+### Quantitative comparison with other advanced methods on the NL Drive dataset. Frame-1, Frame-2, and Frame-3 denote three interpolated frames evenly spaced between two middle input frames. The symbol "^" signifies outlier removal during preprocessing.
 | Methods | Type | Frame-1 (CD) | Frame-1 (EMD) | Frame-2 (CD) | Frame-2 (EMD) | Frame-3 (CD) | Frame-3 (EMD) | Average (CD) | Average (EMD) |
 |---------|------|---------------|----------------|---------------|----------------|---------------|----------------|---------------|----------------|
 | NSFP [li2021neural] | Forward Flow | 0.94 | 95.18 | 1.75 | 132.30 | 2.55 | 168.91 | 1.75 | 132.13 |

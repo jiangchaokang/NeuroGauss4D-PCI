@@ -4,7 +4,7 @@
 
 Anonymous Author(s)
 
-**NeurIPS 2024**  
+**meeting 2024**  
 
 
 
@@ -39,7 +39,7 @@ Anonymous Author(s)
 
 ## Changelog  
 2024-5-22: ✨ 
-We are pleased to announce that we have submitted NeuroGauss4D-PCI to NeurIPS 2024. We extend our heartfelt thanks to all the reviewers for their valuable feedback.
+We are pleased to announce that we have submitted NeuroGauss4D-PCI to meeting 2024. We extend our heartfelt thanks to all the reviewers for their valuable feedback.
 
 
 ## Get Started
